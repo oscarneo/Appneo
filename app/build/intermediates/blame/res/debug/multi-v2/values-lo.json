@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/oscar/Desktop/Appneo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "outputFile": "C:\\Users\\oscar\\AndroidStudioProjects\\Appneo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
-                    "source": "/Users/oscar/.gradle/caches/transforms-2/files-2.1/4350d767fb8b5f196f4e48747961e3d1/jetified-play-services-basement-17.0.0/res/values-lo/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3929",
-                        "endColumns": "190",
-                        "endOffsets": "4115"
-                    }
-                },
-                {
-                    "source": "/Users/oscar/.gradle/caches/transforms-2/files-2.1/fbc30036edd1b957d848438284fe0d37/core-1.0.2/res/values-lo/values-lo.xml",
+                    "source": "C:\\Users\\oscar\\.gradle\\caches\\transforms-2\\files-2.1\\fbc30036edd1b957d848438284fe0d37\\core-1.0.2\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/oscar/.gradle/caches/transforms-2/files-2.1/a32552ed4016ef1f3a19941adff20cb7/appcompat-1.0.2/res/values-lo/values-lo.xml",
+                    "source": "C:\\Users\\oscar\\.gradle\\caches\\transforms-2\\files-2.1\\622beb0bab3a41d9f221fae39a28dca8\\jetified-play-services-basement-17.0.0\\res\\values-lo\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3929",
+                        "endColumns": "190",
+                        "endOffsets": "4115"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\oscar\\.gradle\\caches\\transforms-2\\files-2.1\\a32552ed4016ef1f3a19941adff20cb7\\appcompat-1.0.2\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/oscar/.gradle/caches/transforms-2/files-2.1/41da659ee12775d807984748ff1c2b25/play-services-base-17.1.0/res/values-lo/values.xml",
+                    "source": "C:\\Users\\oscar\\.gradle\\caches\\transforms-2\\files-2.1\\41da659ee12775d807984748ff1c2b25\\play-services-base-17.1.0\\res\\values-lo\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

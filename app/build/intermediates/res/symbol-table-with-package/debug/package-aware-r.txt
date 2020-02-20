@@ -728,6 +728,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id button_update
 id center
 id center_horizontal
 id center_vertical
@@ -757,7 +758,6 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
-id foto_button_register
 id gone
 id group_divider
 id groups
@@ -768,6 +768,7 @@ id icon_group
 id icon_only
 id ifRoom
 id image
+id imageView
 id info
 id invisible
 id italic

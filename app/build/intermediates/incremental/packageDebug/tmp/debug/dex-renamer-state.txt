@@ -1,4 +1,4 @@
-#Tue Feb 18 09:38:48 PET 2020
-base.0=/Users/oscar/Desktop/Appneo/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Thu Feb 20 09:16:38 COT 2020
+base.0=C\:\\Users\\oscar\\AndroidStudioProjects\\Appneo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
